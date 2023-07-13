@@ -5,6 +5,5 @@ Feel free to [contact me](mailto:pedro_lameiras@icloud.com) auf Deutsch, in Engl
 
 
 [![SkillIcons](https://skillicons.dev/icons?i=cpp,c,py,java,git,gitlab,linux,vue,vscode,idea)](https://skillicons.dev)<br/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=randomicecube&theme=dark" alt="randomicecube"/></p>
 
 </div>
