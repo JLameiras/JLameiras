@@ -3,7 +3,7 @@
 # Hey there! 👋
 
 I’m Pedro. I'm currently studying Computer Science and Engineering at Instituto Superior Técnico.\
-[Write me](mailto:pedro_lameiras@icloud.com) auf Deutsch, in English ou Português.
+[Contact me](mailto:pedro_lameiras@icloud.com) auf Deutsch, in English ou Português.
 
 
 [![SkillIcons](https://skillicons.dev/icons?i=cpp,c,py,java,git,gitlab,linux,vue,vscode,idea)](https://skillicons.dev)<br/>
